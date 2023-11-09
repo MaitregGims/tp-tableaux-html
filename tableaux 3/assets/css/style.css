@@ -1,0 +1,12 @@
+table {
+    border: 2px solid grey;
+}
+
+tr {
+    text-align: center;
+}
+
+.space {
+    background-color: white;
+    height: 150px;
+}

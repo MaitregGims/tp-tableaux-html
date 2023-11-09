@@ -1,0 +1,25 @@
+.gris {
+    background-color: rgb(190, 190, 190);
+}
+td {
+    border: 2px solid black;
+    width: 30px;
+    height: 30px;
+}
+table {
+    border-collapse: collapse;
+}
+body {
+    width: 50%;
+    margin: 10px auto;
+}
+.jaune {
+    background-color: yellow;
+}
+.noir {
+    background-color: black;
+}
+
+.bleu {
+    background-color: blue;
+}

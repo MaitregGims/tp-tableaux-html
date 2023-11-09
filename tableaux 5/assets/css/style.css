@@ -1,0 +1,36 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.grey {
+    background-color: #5d5d5d;
+    color: white;
+    border: 2px solid grey;
+    height: 40px;
+}
+
+td {
+    border: 1px solid grey;
+    height: 40px;
+}
+
+.white {
+    background-color: white;
+}
+
+.first-hover:hover {
+    width: 70%;
+    height: 65px;
+}
+
+.second-hover:hover {
+    width: 70%;
+    height: 65px;
+}
+
+.last-hover:hover {
+    width: 70%;
+    height: 65px;
+}

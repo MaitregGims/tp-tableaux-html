@@ -1,0 +1,30 @@
+.uppercase {
+    text-transform: uppercase;
+}
+
+body  {
+    width: 40%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: blue;
+}
+
+thead {
+    width: 100%;
+    text-align: center;
+    background-color: #0056AD;
+}
+
+.img {
+    width: 40%;
+}
+
+.largeur-td {
+    width: 5%;
+}

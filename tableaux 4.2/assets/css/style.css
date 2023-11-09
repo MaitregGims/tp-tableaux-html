@@ -1,0 +1,47 @@
+td {
+    width: 30px;
+    height: 30px;
+}
+table {
+    border-collapse: collapse;
+}
+body {
+    width: 50%;
+    margin: 10px auto;
+}
+
+.noir {
+    background-color: black;
+}
+
+.marron-fonce {
+    background-color: #322419;
+}
+
+.marron {
+    background-color: #423223;
+}
+
+.beige {
+    background-color: #fca67c;
+}
+
+.fonce {
+    background-color: #fe9966;
+}
+
+.vert {
+    background-color: #405728;
+}
+
+.blanc {
+    background-color: #ffe9cb;
+}
+
+.m {
+    background-color: brown;
+}
+
+.yellow {
+    background-color: yellow;
+}
